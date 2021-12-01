@@ -3,12 +3,8 @@
         "parqueNacional" : "Parque Nacional Natural Tayrona",
         "descripcionDetail" : "Las estribaciones de la Sierra Nevada de Santa Marta, la montaña costera más alta del mundo, se hunden en el mar como los dedos de una mano gigantesca entre los que se forman bahías y ensenadas de belleza singular: Chengue, Gayraca, Cinto, Neguanje, Concha, Guachaquita, con sus playas de arenas blancas delimitadas por, manglares, matorrales o bosques, y bañadas todas por las aguas cristalinas del mar Caribe, hacen parte de los muchos atractivos que ofrece el Parque Nacional Natural Tayrona.\nPara quienes buscan la contemplación y el descanso, el Parque ofrece magníficas playas y el relajante panorama de un mar intensamente azul. Quienes se sienten atraídos por actividades más emocionantes podrán disfrutar de caminatas, careteo y buceo autónomo.",
         "descripcion" : "Para quienes buscan la contemplación y el descanso, el  parque ofrece magníficas playas y el relajante panorama de un mar intensamente azul.",
-        "puntuacion" : 5.0,
-        "foto" : "https://res.cloudinary.com/dlatytwec/image/upload/v1637516376/tayrona_zdnoqw.jpg",
-        "fotoDetail" : "https://www.parquesnacionales.gov.co/portal/wp-content/uploads/2013/06/David_Paez.jpg",
-        "ubicacion" : "Sierra Nevada de Santa Marta",
-        "temperatura" : "Entre 12 y 18° C",
-        "sitios" : "Museo Arqueológico de Chairama, Playa del Muerto, Sector Arrecifes, La Piscina, Cabo San Juan de Guía, Pueblito Chairama, Playa Boca de Saco, Ciudad Perdida."
+        "puntuacion" : 5.0
+
     },
 
     {        
