@@ -1,8 +1,6 @@
-[
-    {        
+{        
         "parqueNacional" : "Parque Nacional Natural La Gorgona",
         "descripcionDetail" : "El Parque Nacional Natural Gorgona es un pequeño paraíso de diversidad que salta a la vista desde alta mar cuando la frondosa y exuberante selva bosque muy húmedo tropical desciende desde las pequeñas cumbres nubladas hasta el azul intenso de las aguas misteriosas del océano Pacífico. El Parque está conformado por dos islas, Gorgona y Gorgonilla, que recibieron el nombre de Francisco Pizarro en 1527; como sus hombres fueron mordidos por muchas serpientes, las comparó con los monstruos femeninos de la mitología griega, una de ellas llamada Gorgona.\n Ha sido denominada ‘Isla Ciencia’ por la cantidad de información que ha dado a los investigadores para entender los ecosistemas y para el manejo efectivo del área protegida. ",
         "descripcion" : "Para quienes buscan descansar y desconectarse de la agitada vida moderna, el parque ofrece asombrosas vistas tant en tierra como en mar",
         "puntuacion" : 4.5
-    }
-]
+}
