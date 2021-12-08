@@ -1,3 +1,6 @@
+{
+    "parks" :
+
 [
     {        
         "parqueNacional" : "Parque Nacional Natural Tayrona",
@@ -83,3 +86,4 @@
         "lon" : -73.758572
     }
 ]
+}
